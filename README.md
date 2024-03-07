@@ -2,5 +2,5 @@
 
 | Nº Ejercicio |
 |--------------|
-[Ejercicio1](ejercicio1)
+[Ejercicio1](ejercicio1.md)
 

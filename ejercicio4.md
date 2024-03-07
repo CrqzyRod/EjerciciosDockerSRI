@@ -35,4 +35,17 @@ Como podemos observar funciona perfectamente
 ![imagen](https://github.com/CrqzyRod/EjerciciosDockerSRI/assets/122454007/aaa3f8e4-2f18-4c49-9ecf-73715befe8e0)
 
 ### Despliegue Wordpress + MariaDB
+Para ello primero creamos una red de docker la cual usaremos para correr los contenedores
+
+![imagen](https://github.com/CrqzyRod/EjerciciosDockerSRI/assets/122454007/decc09eb-a1d4-46d7-a4d9-ad6ebf451c50)
+
+Corremos los contenedores
+
+![imagen](https://github.com/CrqzyRod/EjerciciosDockerSRI/assets/122454007/fabb0c9b-2b0a-4173-b6bd-243541dc4de6)
+
+![imagen](https://github.com/CrqzyRod/EjerciciosDockerSRI/assets/122454007/6028db78-5235-4376-beba-e650e2b6a9e5)
+
+Como podemos ver una vez corridos ambos contenedores podemos acceder desde el navegador a la página de instalación de WordPress
+
+![imagen](https://github.com/CrqzyRod/EjerciciosDockerSRI/assets/122454007/cb210db0-28a3-449f-82d6-48e9d177cb5d)
 

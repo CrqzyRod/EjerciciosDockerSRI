@@ -42,3 +42,12 @@
 ### Borrar contenedor myhello1
 
 ![imagen](https://github.com/CrqzyRod/EjerciciosDockerSRI/assets/122454007/63cb2b55-e0cf-49fd-a8b4-a83edbfa3157)
+
+### Mostrar contenedores que se están ejecutando
+
+![imagen](https://github.com/CrqzyRod/EjerciciosDockerSRI/assets/122454007/bba3e945-204a-4b51-be78-2e5fd9f06782)
+
+### Borrar todos los contenedores
+Para ello primero paramos todos los contenedores y posteriormente los borramos.
+
+![imagen](https://github.com/CrqzyRod/EjerciciosDockerSRI/assets/122454007/1b30a49b-a57c-4f45-b44a-4aaff2fa1d72)

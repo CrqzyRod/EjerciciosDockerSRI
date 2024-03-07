@@ -31,3 +31,15 @@ Creamos el docker compose de ambos programas
 
 ![imagen](https://github.com/CrqzyRod/EjerciciosDockerSRI/assets/122454007/098c2595-fb15-4f77-adda-902eaee2cab1)
 
+Corremos el fichero docker compose
+
+![imagen](https://github.com/CrqzyRod/EjerciciosDockerSRI/assets/122454007/8b49faf0-86b1-4c61-b448-ba45036188c5)
+
+### Si quisieramos ver todos los ficheros docker compose tendríamos que realizar el comando docker compose ps dentro de cada directorio donde tengamos un docker compose
+
+![imagen](https://github.com/CrqzyRod/EjerciciosDockerSRI/assets/122454007/8c378dc2-6bff-4b9d-929a-4cd4c49e15ff)
+
+### Listamos los contenedores creados
+
+![imagen](https://github.com/CrqzyRod/EjerciciosDockerSRI/assets/122454007/20fad47f-7294-4915-be1e-1a5cec250f68)
+
